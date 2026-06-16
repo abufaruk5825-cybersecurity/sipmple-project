@@ -1,0 +1,10 @@
+ body{
+    text-align: center;
+ }
+ #rollbtn{
+background-color: rgb(163, 163, 251);
+padding: 10px 20px;
+border-radius: 7px;
+font-size: 2em;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
